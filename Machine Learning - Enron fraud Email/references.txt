@@ -1,0 +1,11 @@
+Refernces
+
+1. https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+
+2. https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+
+3. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_recall_fscore_support.html
+
+4. https://scikit-learn.org/stable/modules/compose.html
+
+5. https://towardsdatascience.com/precision-vs-recall-386cf9f89488
