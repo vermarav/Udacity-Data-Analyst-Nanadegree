@@ -1,0 +1,9 @@
+References
+
+1. https://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests-t-values-and-t-distributions
+
+2. https://towardsdatascience.com/inferential-statistics-series-t-test-using-numpy-2718f8f9bf2f
+
+3. socscistatistics.com/tests/criticalvalues/default.aspx
+
+4. http://www.statstutor.ac.uk/resources/uploaded/paired-t-test.pdf
