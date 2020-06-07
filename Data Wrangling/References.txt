@@ -1,0 +1,4 @@
+1. https://www.w3schools.com/sql/default.asp
+2. http://wiki.openstreetmap.org/wiki/Map_Features
+3. http://wiki.openstreetmap.org/wiki/OSM_XML
+4. https://www.tutorialspoint.com/sqlite/index.htm
